@@ -1,5 +1,4 @@
 {
-  "drum": [
-    "ex1/puff.wav",
-  ],
+  
+  "bdrum": "samples/ex1/puff.wav",
 }
