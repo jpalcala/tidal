@@ -1,3 +1,4 @@
 {
-  "bdrum": "samples/ex1/puff.wav",
+"_base": "https://raw.githubusercontent.com/jpalcala/tidal/main/",
+"breaks": ["breaks/break_01.wav"]
 }
