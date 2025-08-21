@@ -1,4 +1,4 @@
 {
 "_base": "https://raw.githubusercontent.com/jpalcala/tidal/main/",
-"breaks": ["breaks/break_01.wav"]
+"breaks": ["breaks/break_01.wav", "breaks/break_02.wav"]
 }
